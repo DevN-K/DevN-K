@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Java Enjoyer<br>- Studying WIRTSCHAFTSINFORMATIK
+- Java and Python <br>- Studying WIRTSCHAFTSINFORMATIK
 
 
 # 💻 Tech Stack:
