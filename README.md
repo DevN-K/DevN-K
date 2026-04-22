@@ -1,4 +1,4 @@
-<h1>Hello!</h1>
+<h1>Hallo!</h1>
 
 # 💫 About Me:
 - Java and Python <br>- Studying WIRTSCHAFTSINFORMATIK
